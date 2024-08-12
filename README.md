@@ -1,4 +1,4 @@
-# CS341 - Advanced Data Structures at Butler University
+# CS341 - Advanced Data Structures
 Language: C++\
 Professor: Dr. Ryan Rybarczyk\
 *January - April 2023*
@@ -9,7 +9,7 @@ This course focuses on advanced techniques in object-oriented programming, cover
 
 ## Projects 
 1. Keepin’ It Classy -- Simulating Indianapolis 500
-2.  Master-Card -- Simulating the game War with a deck of cards
+2. Master-Card -- Simulating the game War with a deck of cards
 3. P ‘Bit’ty -- Bit Vectors/Bit Arrays
 4. Hop Dawg -- Doubly Linked Lists
 5. Color Me Dawgs -- Red-Black Trees
